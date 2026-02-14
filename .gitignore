@@ -24,7 +24,8 @@ conda-env/
 # =========================
 # Data (DO NOT TRACK DATASETS)
 # =========================
-data/
+data/*
+!data/.gitkeep
 datasets/
 *.csv
 *.json
@@ -34,7 +35,8 @@ datasets/
 # =========================
 # Experiment outputs
 # =========================
-results/
+results/*
+!results/.gitkeep
 runs/
 logs/
 
