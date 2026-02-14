@@ -37,6 +37,7 @@ datasets/
 # =========================
 results/*
 !results/.gitkeep
+!results/README_Image.png
 runs/
 logs/
 
