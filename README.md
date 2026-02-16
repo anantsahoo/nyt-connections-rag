@@ -1,9 +1,10 @@
-
-<p align="center">
+<div align="center">
   <img src="assets/README_Image.png" alt="Project Image" width="50%">
-</p>
+  <h1>NYT Connections: LLM vs RAG Evaluation</h1>
+</div>
+</br>
 
-# NYT Connections: LLM vs RAG Evaluation
+# NYT Connections Project
 
 This project evaluates whether Retrieval-Augmented Generation (RAG) improves the performance and reliability of Large Language Models (LLMs) on the NYT _Connections_ word-grouping puzzle.
 
