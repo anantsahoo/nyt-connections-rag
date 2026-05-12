@@ -13,7 +13,7 @@ In the NYT _Connections_ game, the model is given 16 words and must divide them 
 We compare three approaches:
 
 1. **Baseline LLM Approach**  
-   The model solves the puzzle using only the 16 input words, without any external retrieval or semantic support.
+   The model solves the puzzle using only prompting strategies, without any external retrieval or semantic support.
 
 2. **RAG-Based LLM Pipeline**  
    The model receives additional semantic context retrieved from WordNet-based documents using vector search.
