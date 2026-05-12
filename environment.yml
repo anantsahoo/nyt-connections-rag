@@ -9,6 +9,11 @@ dependencies:
   - matplotlib
   - tqdm
   - jupyterlab
+  - nltk
+  - ipywidgets
+  - faiss-cpu
   - pip
   - pip:
       - python-dotenv
+      - openai
+      - sentence-transformers
