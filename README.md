@@ -25,7 +25,7 @@ The objective is to compare these approaches using puzzle completion rate, group
 
 ## Repo Structure
 
-- `assets\` Contains the README Image.
+- `assets/` Contains the README Image.
 - `data/` Dataset files should be placed here after downloading. For now there are links to access the data.
 - `notebooks/` Contains the main program: `NYTConnection-All.ipynb`
 - `old_notebooks/` Contains legacy and old code.
